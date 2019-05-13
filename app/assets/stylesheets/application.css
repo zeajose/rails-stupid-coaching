@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+.answer {
+  border-left: 7px solid #DDDDDD;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.answer:hover {
+  background-color: #FFFEE1;
+}
+
+.answer .text{
+  padding: 5px;
+  margin-left: 10px;
+}
